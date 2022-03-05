@@ -1,0 +1,15 @@
+name="Flying Saucers and the Socialist Future of Mankind"
+tags={
+	"Alternate History"
+	"Alternative History"
+	"Ideologies"
+	"Events"
+	"Time Travel"
+	"National Focuses"
+	"Posadism"
+	"Science Fiction"
+}
+picture="flying_saucers.gif"
+supported_version="1.10.*"
+path="X:/SteamLibrary/steamapps/workshop/content/394360/1156789523"
+remote_file_id="1156789523"

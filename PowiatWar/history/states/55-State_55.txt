@@ -1,0 +1,12 @@
+state={
+	id=55
+	name="STATE_55"
+	provinces={
+		14323 
+	}
+	history={
+		owner = FRA
+	}
+	manpower=110
+	buildings_max_level_factor=1.000
+}

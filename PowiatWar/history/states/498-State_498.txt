@@ -1,0 +1,12 @@
+state={
+	id=498
+	name="STATE_498"
+	provinces={
+		125 200 298 477 550 928 1411 1421 1575 1696 1734 2109 2118 2201 2213 2434 4093 4235 4690 4868 5500 7174 10353 
+	}
+	history={
+		owner = FRA
+	}
+	manpower=110
+	buildings_max_level_factor=1.000
+}

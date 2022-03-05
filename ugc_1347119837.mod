@@ -1,0 +1,15 @@
+name="Wilhem II."
+tags={
+	"Fixes"
+	"Balance"
+	"Events"
+	"Gameplay"
+	"Alternative History"
+	"National Focuses"
+	"Graphics"
+	"Map"
+}
+picture="titelbild.png"
+supported_version="1.5.*"
+archive="X:/SteamLibrary/steamapps/workshop/content/394360/1347119837/wilhelm.zip"
+remote_file_id="1347119837"

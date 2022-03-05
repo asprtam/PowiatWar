@@ -1,0 +1,12 @@
+state={
+	id=360
+	name="STATE_360"
+	provinces={
+		3198 3254 6904 7642 7690 8196 13399 13498 13568 
+	}
+	history={
+		owner = FRA
+	}
+	manpower=110
+	buildings_max_level_factor=1.000
+}

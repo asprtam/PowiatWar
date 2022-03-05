@@ -1,0 +1,15 @@
+version="1.2"
+picture="thumbnail.png"
+tags={
+	"Alternative History"
+	"Events"
+	"Gameplay"
+	"Historical"
+	"Map"
+	"National Focuses"
+	"Translation"
+}
+name="Denmark +"
+supported_version="1.11.5"
+path="X:/SteamLibrary/steamapps/workshop/content/394360/2727755712"
+remote_file_id="2727755712"

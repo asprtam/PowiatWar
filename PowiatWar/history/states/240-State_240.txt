@@ -1,0 +1,12 @@
+state={
+	id=240
+	name="STATE_240"
+	provinces={
+		704 800 2577 2615 2697 4932 5301 6761 7234 9669 9897 10232 12664 12674 
+	}
+	history={
+		owner = FRA
+	}
+	manpower=110
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,16 @@
+name="Here, Have Some Faces!"
+tags={
+	"Fixes"
+	"Graphics"
+	"Historical"
+	"Alternative History"
+	"Faces"
+	"Portraits"
+	"Leaders"
+	"Don't Play Fascist Cuba"
+	"Finger Painted"
+}
+picture="faces.jpg"
+supported_version="1.3.3"
+archive="X:/SteamLibrary/steamapps/workshop/content/394360/942070435/herehavefaces.zip"
+remote_file_id="942070435"
